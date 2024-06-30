@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/julia/Documents/Coding/C++/Compiler/1/source
+# Install script for directory: C:/Users/julia/Documents/GitHub/Compiler/source
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

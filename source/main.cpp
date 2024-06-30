@@ -7,6 +7,12 @@
 using namespace jp;
 
 int main(i32 argc, char* argv[]) {
+	if(argc != 2){
+		// too few arguments
+		std::cerr << "Too few arguments" << std::endl;
+		return 1;
+	}
+
 	std::vector<std::string> args(argv + 1, argv + argc);
 
 	// load text from file from args[0]

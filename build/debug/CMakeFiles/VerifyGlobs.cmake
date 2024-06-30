@@ -3,21 +3,21 @@
 cmake_policy(SET CMP0009 NEW)
 
 # HEADERS at source/CMakeLists.txt:2 (file)
-file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/julia/Documents/Coding/C++/Compiler/1/include/*.h")
+file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/julia/Documents/GitHub/Compiler/include/*.h")
 set(OLD_GLOB
-  "C:/Users/julia/Documents/Coding/C++/Compiler/1/include/jp/primitive.h"
+  "C:/Users/julia/Documents/GitHub/Compiler/include/jp/primitive.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
-  file(TOUCH_NOCREATE "C:/Users/julia/Documents/Coding/C++/Compiler/1/build/debug/CMakeFiles/cmake.verify_globs")
+  file(TOUCH_NOCREATE "C:/Users/julia/Documents/GitHub/Compiler/build/debug/CMakeFiles/cmake.verify_globs")
 endif()
 
 # SOURCES at source/CMakeLists.txt:1 (file)
-file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/julia/Documents/Coding/C++/Compiler/1/source/*.cpp")
+file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/julia/Documents/GitHub/Compiler/source/*.cpp")
 set(OLD_GLOB
-  "C:/Users/julia/Documents/Coding/C++/Compiler/1/source/main.cpp"
+  "C:/Users/julia/Documents/GitHub/Compiler/source/main.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
-  file(TOUCH_NOCREATE "C:/Users/julia/Documents/Coding/C++/Compiler/1/build/debug/CMakeFiles/cmake.verify_globs")
+  file(TOUCH_NOCREATE "C:/Users/julia/Documents/GitHub/Compiler/build/debug/CMakeFiles/cmake.verify_globs")
 endif()

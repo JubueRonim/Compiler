@@ -1,5 +1,5 @@
-C:/Users/julia/Documents/Coding/C++/Compiler/1/build/debug/CMakeFiles/edit_cache.dir
-C:/Users/julia/Documents/Coding/C++/Compiler/1/build/debug/CMakeFiles/rebuild_cache.dir
-C:/Users/julia/Documents/Coding/C++/Compiler/1/build/debug/source/CMakeFiles/jpc.dir
-C:/Users/julia/Documents/Coding/C++/Compiler/1/build/debug/source/CMakeFiles/edit_cache.dir
-C:/Users/julia/Documents/Coding/C++/Compiler/1/build/debug/source/CMakeFiles/rebuild_cache.dir
+C:/Users/julia/Documents/GitHub/Compiler/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/julia/Documents/GitHub/Compiler/build/debug/CMakeFiles/rebuild_cache.dir
+C:/Users/julia/Documents/GitHub/Compiler/build/debug/source/CMakeFiles/jpc.dir
+C:/Users/julia/Documents/GitHub/Compiler/build/debug/source/CMakeFiles/edit_cache.dir
+C:/Users/julia/Documents/GitHub/Compiler/build/debug/source/CMakeFiles/rebuild_cache.dir
